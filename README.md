@@ -1,4 +1,4 @@
-# Ishan Rayen
+# Analytics and Me
 
 #### Technical Skills: Python, MATLAB, R
 
