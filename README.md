@@ -29,4 +29,6 @@ B.A., Physics and Economics | Macalester College (_May 2024_)
 
 ### Effects of Post-Deposition Annealing on Room-Temperature Deposited Zinc Oxide
 [Publication] (https://digitalcommons.macalester.edu/mjpa/vol12/iss1/10)
+
+
 In this study, I investigated the effects of post-deposition annealing on ZnO thin films deposited via magnetron sputtering, aiming to optimize conductivity, transparency, and crystal quality. I identified 250°C as the ideal annealing temperature, achieving a 3.86-fold increase in conductivity with minimal loss of transparency. However, I found no significant improvement in crystal quality, and the films remained less conductive than industry standards. My work contributes valuable insights into balancing film properties for potential applications.
