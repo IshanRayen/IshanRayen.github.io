@@ -23,8 +23,8 @@ Thin Film Lab: Department of Physics and Astronomy
 **Financial Advisory Summer Analyst**
 Lazard
 - Conducted research and analytics for Data Strategy, Business Management, and Capital Markets.
-- Developed a weekly project management reporting system connecting Jura to Excel, enhancing project tracking and efficiency across the organization.
-- Attended in client meetings and obtained relevant data adn statistics for managers.
+- Developed a weekly project management reporting system connecting Jira to Excel, enhancing project tracking and efficiency across the organization.
+- Attended  client meetings and obtained relevant data and statistics for managers.
  
-  ## Projects and Publications
+## Projects and Publications
   
