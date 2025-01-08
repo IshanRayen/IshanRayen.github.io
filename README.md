@@ -20,11 +20,11 @@ Thin Film Lab: Department of Physics and Astronomy
 - Fabricated ZnO thin conducting films under varying conditions to determine the effects of differing methods.
 - Compiled and analyzed spectrographic, x-ray, and resistivity measurements to understand the ZnO films' crystal quality, transparency, and conductivity.
 
-  **Financial Advisory Summer Analyst**
-  Lazard
-  - Conducted research and analytics for Data Strategy, Business Management, and Capital Markets.
-  - Developed a weekly project management reporting system connecting Jura to Excel, enhancing project tracking and efficiency across the organization.
-  - Participated in client meetings and obtained relevant data adn statistics for managers.
+**Financial Advisory Summer Analyst**
+Lazard
+- Conducted research and analytics for Data Strategy, Business Management, and Capital Markets.
+- Developed a weekly project management reporting system connecting Jura to Excel, enhancing project tracking and efficiency across the organization.
+- Attended in client meetings and obtained relevant data adn statistics for managers.
  
   ## Projects and Publications
   
