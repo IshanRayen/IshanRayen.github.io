@@ -26,6 +26,7 @@ B.A., Physics and Economics | Macalester College (_May 2024_)
 ## Projects and Publications
 
 ### Chaos Pendulum
+[Project]([https://github.com/IshanRayen/Chaos_Pendulum])
 
 ### Effects of Post-Deposition Annealing on Room-Temperature Deposited Zinc Oxide
 [Publication]([(https://digitalcommons.macalester.edu/mjpa/vol12/iss1/10/]))
