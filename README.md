@@ -31,4 +31,6 @@ A double pendulum is a mechanical system that mimics a normal pendulum but it in
 
 ![image](Asset/Double_Pend.png) 
 
+### Heat Dissipation Model
+[Project](https://github.com/IshanRayen/Heat_Dissipation_Model)
 
