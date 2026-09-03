@@ -1,22 +1,7 @@
 # Analytics and Me
 
-#### Technical Skills: Python, MATLAB, and R
-#### Interests: Gardening, Football, and Analytics
-
 ## Education
 B.A., Physics and Economics | Macalester College (May 2024)
-
-## Professional Experience
-
-**Investment Analyst | Macalester Investment Group**
-- Impact: portfolio grew from $85K to $100K over three years, achieving a team return of 41% while sustaining a Sharpe ratio above 2.
-
-**Physics Research Associate | Thin Film Lab: Department of Physics and Astronomy**
-- Published a study comparing post-deposition annealed ZnO to the industry standard deposition.
-- Compiled and analyzed spectrographic, x-ray, and resistivity measurements to understand the ZnO films' crystal quality, transparency, and conductivity.
-
-**Financial Advisory Summer Analyst | Lazard**
-- Conducted research and analytics for Data Strategy, Business Management, and Capital Markets.
  
 ## Projects and Publications
 
